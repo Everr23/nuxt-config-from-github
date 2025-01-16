@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   compatibilityDate: "2024-11-01",
   runtimeConfig: {
     public: {
-      nuxtConfigFromGitHub: "nuxt Config From GitHub",
+      nuxtConfigFromGitHub: "RuntimeConfig from GitHub",
     },
   },
 });

@@ -1,3 +1,3 @@
 export default defineAppConfig({
-  configModule: "configModule",
+  nuxtConfigFromGitHub: "AppConfig from GitHub",
 });
